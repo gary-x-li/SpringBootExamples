@@ -12,7 +12,7 @@ public class SpringbootApplicationTests {
 
     @Test
     public void contextLoads() {
-        Assert.assertEquals(1, 1);
+        Assert.assertEquals(2, 2);
         System.out.println("Test Success!");
     }
 
